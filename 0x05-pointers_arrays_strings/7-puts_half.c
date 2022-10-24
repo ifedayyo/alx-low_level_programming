@@ -5,7 +5,7 @@
  * @str: input
  */
 
-void puts_haf(char *str)
+void puts_half(char *str)
 {
 	int len = 0;
 
@@ -21,5 +21,5 @@ void puts_haf(char *str)
 		_putchar(*str);
 		str++;
 	}
-	_putcahr('\n');
+	_putchar('\n');
 }
