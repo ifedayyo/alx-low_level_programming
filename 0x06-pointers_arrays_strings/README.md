@@ -1,1 +1,1 @@
-0x06 pointers, strings
+0x06 pointers, string0x07-poointers_arrays_stringss
