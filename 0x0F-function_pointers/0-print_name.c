@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "function_pointers.h"
+#include "function_pointer.h"
 /**
  * print_name - function that prints name passed to it
  * @name: char to display to the stdout
